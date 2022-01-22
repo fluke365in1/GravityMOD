@@ -3,9 +3,11 @@ This plugin set sv_gravity AND sv_airaccelerate
 This plugin also hide sv_tags change.
 
 Allow admins to make vote for set GravityMOD
+
 Usage : sm_grav or sm_gravitymod
 
 Allow Cvar acces to force mod 1|0
+
 Usage : sm_forcegrav or sm_fgrav or sm_fgravity
 
 Some Cvars :
