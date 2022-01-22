@@ -1,7 +1,8 @@
 # GravityMOD
 This plugin set sv_gravity AND sv_airaccelerate
-This plugin also hide sv_tags change.
 
+This plugin also hide sv_tags change.
+_______________________________________________
 Allow admins to make vote for set GravityMOD
 
 Usage : sm_grav or sm_gravitymod
