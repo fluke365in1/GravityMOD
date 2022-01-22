@@ -10,5 +10,7 @@ Usage : sm_forcegrav or sm_fgrav or sm_fgravity
 
 Some Cvars :
 sm_grav_vote_interval -> Interval in seconds between vote casts.
+
 sm_grav_vote_delay -> Time in minutes before the GravityMod vote is allowed after map start.
+
 sm_grav_vote_percent -> Percentage of "yes" votes required to consider the vote successful
